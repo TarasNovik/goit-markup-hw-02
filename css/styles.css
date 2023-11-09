@@ -79,7 +79,11 @@ a{text-decoration: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;}
-
+.advantages-text{color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
 p{color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -92,7 +96,7 @@ h2{text-align: center;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
 
-.section-team{ background-color: #FFFFFF}
+.section-team{ background-color: #F4F4FD}
 .team-title{text-align: center;
     font-size: 36px;
     font-weight: 700;
