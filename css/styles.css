@@ -4,9 +4,7 @@ body{
    color: #434455;
    font-style: normal;}
 
-ul{
-   list-style-type: none;
-  }
+ul{list-style-type: none;}
 a{text-decoration: none;}
 
 /* header */
@@ -95,7 +93,7 @@ h2{text-align: center;
     letter-spacing: 0.72px;
     text-transform: capitalize;}
 
-.section-team{ background-color: ##FFFFFF
+.section-team{ background-color: ##FFFFFF}
 .team-title{text-align: center;
     font-size: 36px;
     font-weight: 700;
