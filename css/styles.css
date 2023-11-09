@@ -128,4 +128,8 @@ a{text-decoration: none;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     line-height: 1.17;}
-.text-footer{color: #F4F4FD;;}
+.text-footer{color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    font-weight: 400;}
