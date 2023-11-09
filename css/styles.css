@@ -1,12 +1,10 @@
 body{ 
     background-color: #fff;
    font-family: Roboto,sans-serif;
-   color: var(--NAVY-BLUE, #2E2F42);
-   font-style: normal;
-width: 1440px height: 3300px top: -1169px left: 370px}
+   color: var(--NAVY-BLUE, #434455);
+   font-style: normal;}
 
-ul{display: flex;
-   flex-direction: row;
+ul{
    list-style-type: none;
   }
 a{text-decoration: none;}
@@ -15,43 +13,43 @@ a{text-decoration: none;}
 
 .logo-web {
 color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: Raleway,sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
+    line-height: 1.17;
 }
 .logo-studio {
     color: var(--NAVY-BLUE, #2E2F42);
-        font-family: Raleway;
+        font-family: Raleway,sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 21px;
-        letter-spacing: 0.54px;
-        text-transform: uppercase;}
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        line-height: 1.17;
+    }
 
 .social-links .link {color: var(--NAVY-BLUE, #2E2F42);
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
+    font-style: normal;
+    color: var(--NAVY-BLUE, #434455)
 }
 .social-links .link:hover,
 .social-links .link:focus {
     color: #404BBF;
 }
 [href="Studio"]:active{
-    width: 48px;
-    height: 4px;
     flex-shrink: 0;
-    border-radius: 2px;
     background:var(--OCEAN, #404BBF);
     }
 .address-links{
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 40px;}
+   
 .address-links .link {color: var(--NAVY-BLUE, #2E2F42);
     font-size: 16px;
     font-weight: 400;
@@ -61,39 +59,37 @@ color: var(--IRIS, #4D5AE5);
 .address-links .link:hover, 
 .address-links .link:focus{color: #404BBF;}
 
-
+.section-hero{ background-color: #2E2F42 ;}
 .hero{color: var(--WHITE, #FFF);
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
-    background: var(--NAVY-BLUE, #2E2F42);
-    width: 496px;}
-.button,
-.button:hover{color: var(--WHITE, #FFF);
+    background: var(--NAVY-BLUE, #2E2F42);}
+.button,.button:hover
+,.button:focus{color: var(--WHITE, #FFF);
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.64px;display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;border-radius: 4px;
+    letter-spacing: 0.64px;
     background: var(--IRIS, #4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    cursor: pointer;}
+    cursor: pointer;
+    font-family: Roboto, sans-serif;
+    background-color: #404BBF
+}
 .advantages{}
  h3{font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.4px;}
+    letter-spacing: 0.4px;
+color: var(--NAVY-BLUE, #434455);}
 
 p{color: var(--SLATE, #434455)
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
-    letter-spacing: 0.32px;
-    width: 264px;}
+    letter-spacing: 0.32px;}
 h2{text-align: center;
     font-size: 36px;
     font-weight: 700;
