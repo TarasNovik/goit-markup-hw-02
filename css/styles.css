@@ -3,7 +3,7 @@ body{
    font-family: Roboto,Raleway;
    color: var(--NAVY-BLUE, #2E2F42);
    font-style: normal;
-   }
+width: 1440px height: 3300px top: -1169px left: 370px}
 
 ul{display: flex;
    flex-direction: row;
