@@ -104,3 +104,23 @@ color:#2e2f42 ;}
 .team-card{background-color: #FFFFFF;}
 .section-portfolio{background-color: #F4F4FD}
 .footer{background-color: #2e2f42;}
+.logo-web-footer {
+    color: #4d5ae5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 1.17;
+}
+
+.logo-studio-footer {
+    color: #f4f4fd;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 1.17;}
