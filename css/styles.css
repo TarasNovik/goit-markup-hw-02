@@ -32,7 +32,7 @@ color:#2e2f42;
         line-height: 1.17;
     }
 .social-links{font-style: normal;}
-.social-links .link {color: #2E2F42;
+.social-links .link {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -47,7 +47,7 @@ color:#2e2f42;
 
 .address-links{font-style: normal;}
    
-.address-links .link {color: #2E2F42;
+.address-links .link {color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
